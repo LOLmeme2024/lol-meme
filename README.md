@@ -7,6 +7,7 @@ Creation guide
 3. modifying contract
 4. Compile contract
 5. Deploy and run
+
 // to deploy and run on Goerli testnet
 -> choose environment: Injected Provider - Metamask
 -> choose network on metamask = Goerli testnet (get goerli ETH: https://goerlifaucet.com/)
